@@ -12,16 +12,16 @@ The COVID19 Pandemic is upon us and among many things has brought our social / c
 4. Sustainability & Change - What is data telling us about the ability to change lifestyle?
 
 # Contributors
-A. RK Paleru
-B. Srinidhi Narayan
-C. Alex Lobkovsky
-D. Matt Pond
-E. Venki Narayanan
-F. Kyle Foster
-G. Sanket Korgaonkar
-H. Bala Amavasai
-I. Marco Miglionico
-J. ... (more to come)
+1. RK Paleru
+2. Srinidhi Narayan
+3. Alex Lobkovsky
+4. Matt Pond
+5. Venki Narayanan
+6. Kyle Foster
+7. Sanket Korgaonkar
+8. Bala Amavasai
+9. Marco Miglionico
+10. ... (more to come)
 
 # Who can participate?
 Anyone who wishes to contribute to this effort in an open way. We do not have any affiliation to a company, government or non-profit organization. This is purely intended to be a social good oriented effort and will be valuable to participants who would like to contribute to civil society at large. 
