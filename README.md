@@ -12,7 +12,7 @@ The COVID19 Pandemic is upon us and among many things has brought our social / c
 4. Sustainability & Change - What is data telling us about the ability to change lifestyle?
 
 # Contributors
-RK Paleru
+RK Paleru /n
 Srinidhi Narayan
 Alex Lobkovsky
 Matt Pond
